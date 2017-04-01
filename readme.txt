@@ -1,2 +1,2 @@
 this is a txt file.
-git is a free software.
+git is a second software.
